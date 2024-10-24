@@ -1,0 +1,29 @@
+{
+    "locations": [
+        {
+            "name": "Austin, TX",
+            "latitude": 30.2672,
+            "longitude": -97.7431
+        },
+        {
+            "name": "El Paso, TX",
+            "latitude": 31.7619,
+            "longitude": -106.4850
+        },
+        {
+            "name": "San Antonio, TX",
+            "latitude": 29.4241,
+            "longitude": -98.4936
+        },
+        {
+            "name": "Dallas, TX",
+            "latitude": 32.7767,
+            "longitude": -96.7970
+        },
+        {
+            "name": "Houston, TX",
+            "latitude": 29.7604,
+            "longitude": -95.3698
+        }
+    ]
+}
